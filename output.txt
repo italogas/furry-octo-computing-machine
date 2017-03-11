@@ -1,0 +1,134 @@
+italo@italo-VirtualBox:~/Documentos/PSM/trabalho4$ python trabalho4.py 
+Obtendo conjunto de treino e teste da face 1
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 1
+----- // -----
+Obtendo conjunto de treino e teste da face 2
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 2
+----- // -----
+Obtendo conjunto de treino e teste da face 3
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 3
+----- // -----
+Obtendo conjunto de treino e teste da face 4
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 4
+----- // -----
+Obtendo conjunto de treino e teste da face 5
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 5
+----- // -----
+Obtendo conjunto de treino e teste da face 6
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 6
+----- // -----
+Obtendo conjunto de treino e teste da face 7
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 7
+----- // -----
+Obtendo conjunto de treino e teste da face 8
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 8
+----- // -----
+Obtendo conjunto de treino e teste da face 9
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 9
+----- // -----
+Obtendo conjunto de treino e teste da face 10
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 10
+----- // -----
+Obtendo conjunto de treino e teste da face 11
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 11
+----- // -----
+Obtendo conjunto de treino e teste da face 12
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 12
+----- // -----
+Obtendo conjunto de treino e teste da face 13
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 13
+----- // -----
+Obtendo conjunto de treino e teste da face 14
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 14
+----- // -----
+Obtendo conjunto de treino e teste da face 15
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 15
+----- // -----
+Obtendo conjunto de treino e teste da face 16
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 16
+----- // -----
+Obtendo conjunto de treino e teste da face 17
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 17
+----- // -----
+Obtendo conjunto de treino e teste da face 18
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 18
+----- // -----
+Obtendo conjunto de treino e teste da face 19
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 19
+----- // -----
+Obtendo conjunto de treino e teste da face 20
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 20
+----- // -----
+Obtendo conjunto de treino e teste da face 21
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 21
+----- // -----
+Obtendo conjunto de treino e teste da face 22
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 22
+----- // -----
+Obtendo conjunto de treino e teste da face 23
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 23
+----- // -----
+Obtendo conjunto de treino e teste da face 24
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 24
+----- // -----
+Obtendo conjunto de treino e teste da face 25
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 25
+----- // -----
+Obtendo conjunto de treino e teste da face 26
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 26
+----- // -----
+Obtendo conjunto de treino e teste da face 27
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 27
+----- // -----
+Obtendo conjunto de treino e teste da face 28
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 28
+----- // -----
+Obtendo conjunto de treino e teste da face 29
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 29
+----- // -----
+Obtendo conjunto de treino e teste da face 30
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 30
+----- // -----
+Obtendo conjunto de treino e teste da face 31
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 31
+----- // -----
+Obtendo conjunto de treino e teste da face 32
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 32
+----- // -----
+Obtendo conjunto de treino e teste da face 33
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 33
+----- // -----
+Obtendo conjunto de treino e teste da face 34
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 34
+----- // -----
+Obtendo conjunto de treino e teste da face 35
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 35
+----- // -----
+Obtendo conjunto de treino e teste da face 36
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 36
+----- // -----
+Obtendo conjunto de treino e teste da face 37
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 37
+----- // -----
+Obtendo conjunto de treino e teste da face 38
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 38
+----- // -----
+Obtendo conjunto de treino e teste da face 39
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 39
+----- // -----
+Obtendo conjunto de treino e teste da face 40
+Estraindo vetor de caracteristicas dos das faces do conjuntos de treino e teste da face 40
+----- // -----
+Computando distancia euclidiana dos vetores do conjunto de teste com os do conjunto de treino
+----- // -----
+Resutado da classificacao de texturas: 
+[22, 18, 18, 31, 1, 1, 2, 2, 25, 7, 17, 21, 4, 39, 24, 13, 15, 15, 19, 6, 36, 7, 7, 7, 8, 34, 8, 9, 9, 18, 10, 36, 10, 25, 18, 11, 18, 12, 30, 26, 13, 13, 14, 14, 14, 15, 26, 31, 30, 16, 25, 14, 37, 37, 25, 22, 16, 19, 31, 20, 20, 38, 11, 21, 31, 21, 8, 22, 8, 23, 8, 23, 24, 24, 34, 34, 30, 34, 26, 26, 26, 1, 13, 26, 28, 28, 28, 4, 39, 29, 30, 9, 5, 31, 31, 31, 5, 32, 38, 30, 33, 10, 25, 34, 34, 20, 36, 39, 36, 36, 36, 8, 37, 37, 38, 39, 39, 2, 24, 39]
+----- // -----
+Predicoes: 
+['s23', 's19', 's19', 's32', 's2', 's2', 's3', 's3', 's26', 's8', 's18', 's22', 's5', 's40', 's25', 's14', 's16', 's16', 's20', 's7', 's37', 's8', 's8', 's8', 's9', 's35', 's9', 's10', 's10', 's19', 's11', 's37', 's11', 's26', 's19', 's12', 's19', 's13', 's31', 's27', 's14', 's14', 's15', 's15', 's15', 's16', 's27', 's32', 's31', 's17', 's26', 's15', 's38', 's38', 's26', 's23', 's17', 's20', 's32', 's21', 's21', 's39', 's12', 's22', 's32', 's22', 's9', 's23', 's9', 's24', 's9', 's24', 's25', 's25', 's35', 's35', 's31', 's35', 's27', 's27', 's27', 's2', 's14', 's27', 's29', 's29', 's29', 's5', 's40', 's30', 's31', 's10', 's6', 's32', 's32', 's32', 's6', 's33', 's39', 's31', 's34', 's11', 's26', 's35', 's35', 's21', 's37', 's40', 's37', 's37', 's37', 's9', 's38', 's38', 's39', 's40', 's40', 's3', 's25', 's40']
+----- // -----
+Metricas: 
+F1_SCORE: 0.432242063492
+PRECISION: 0.478214285714
+RECALL: 0.458333333333
+
